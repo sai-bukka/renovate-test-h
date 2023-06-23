@@ -3,5 +3,9 @@
   "extends": [
     "config:base",
     "github>sai-bukka/renovate-presets:hawk"
-  ]
+  ],
+  "packageRules": [
+    {
+      "minimumReleaseAge": "2 hour"
+    }
 }
