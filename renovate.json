@@ -6,6 +6,9 @@
   ],
   "packageRules": [
     {
+      "groupName": "automerge-docker-minor-patch",
       "minimumReleaseAge": "2 hour"
     }
+  ]
 }
+
