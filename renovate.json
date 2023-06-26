@@ -6,11 +6,6 @@
   ],
   "packageRules": [
     {
-      "matchDatasources": ["docker"],
-      "groupName": "automerge-docker-minor-patch",
-      "minimumReleaseAge": "2 hour"
-    },
-    {
       "matchDatasources": ["npm"],
       "minimumReleaseAge": "2 hour"
     }
