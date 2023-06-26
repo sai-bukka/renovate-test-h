@@ -7,7 +7,6 @@
   "packageRules": [
     {
       "matchDatasources": ["npm"],
-      "groupName": "automerge-npm-minor-patch",
       "minimumReleaseAge": "1 hour"
     }
   ]
