@@ -192,7 +192,7 @@
     "emojibase-regex": "6.0.1",
     "extract-zip": "2.0.1",
     "find-packages": "10.0.4",
-    "find-up": "5.0.0",
+    "find-up": "6.3.0",
     "fs-extra": "11.1.1",
     "git-url-parse": "13.1.0",
     "github-url-from-git": "1.5.0",
